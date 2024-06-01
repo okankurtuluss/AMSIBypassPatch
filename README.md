@@ -43,9 +43,6 @@ The function checks for errors at each critical step and returns false if any st
 ### Disclaimer
 This script is intended for educational and authorized testing purposes only. Misuse of this script can result in legal consequences. Ensure you have proper authorization before using this script on any system.
 
-### License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ### Acknowledgments
 This script was inspired by various AMSI bypass techniques shared by the security community. Special thanks to all contributors who have shared their knowledge and expertise.
 
