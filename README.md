@@ -50,4 +50,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 This script was inspired by various AMSI bypass techniques shared by the security community. Special thanks to all contributors who have shared their knowledge and expertise.
 
 ### PoC
-test
+![](https://github.com/okankurtuluss/AMSIBypassPatch/blob/okankurtuluss/main/PoC.gif)
